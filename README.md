@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @AbcBrito
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m  Antóno de Brito 
+- 👀  Atualemente  trabalho com Banco de Dados 
+- 🌱  Estudante de Análise  e Densevolviemento de Sistema 
+- 💞️ I’m looking to collaborate  na  aria da programação  como  programador  Front End
+- 📫 How to reach me  bulicatv00@gmail.com
 
 <!---
 AbcBrito/AbcBrito is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

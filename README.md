@@ -1,6 +1,6 @@
 - 👋 Hi, I’m  Antóno de Brito 
 - 👀  Atualemente  trabalho com Banco de Dados 
-- 🌱  Estudante de Análise  e Densevolviemento de Sistema 
+- 🌱  Estudante em Análise  e Densevolviemento de Sistema 
 - 💞️ I’m looking to collaborate  na  aria da programação  como  programador  Front End
 - 📫 How to reach me  bulicatv00@gmail.com
 

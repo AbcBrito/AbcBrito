@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Antóno de Brito 
-- 👀  Atualemente  trabalho com Banco de Dados 
+- 👀  Atualemente  trabalho com Banco de Dados/ Analista de POwer BI
 - 🌱  Estudante em Análise  e Densevolviemento de Sistema 
 - 💞️ I’m looking to collaborate  na  aria da programação  como  programador  Front End
 - 📫 How to reach me  bulicatv00@gmail.com
